@@ -1,2 +1,2 @@
 # LAN-Monitor
-ARP scaning and monitoring tool
+ARP taraması ve izlemesi yapabileceğiniz bir araç
